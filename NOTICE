@@ -1,0 +1,7 @@
+StepBridge (对外分发版)
+Copyright 2026 StepBridge contributors
+
+本产品为原创实现，未包含第三方库代码（无 AAR 依赖）。
+基于 Apache License 2.0 分发，全文见同目录 LICENSE。
+
+分发时请保留本 NOTICE 与 LICENSE；修改过的文件请标注改动。

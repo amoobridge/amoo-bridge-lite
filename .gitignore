@@ -1,0 +1,12 @@
+dist/
+build/
+*.apk
+token.txt
+status.json
+notify*.jsonl
+report-*.txt
+observations.jsonl
+result_*.json
+*.png
+!res/drawable/icon.png   # App 必需资源，例外放行
+config.json
