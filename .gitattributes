@@ -1,0 +1,4 @@
+# Keep shell and Python sources LF even when cloned on Windows, otherwise the
+# git hooks fail with a bad interpreter error.
+*.sh text eol=lf
+*.py text eol=lf

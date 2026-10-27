@@ -1,0 +1,5 @@
+#!/bin/sh
+# Refuse pushes that contain secrets or machine identifiers.
+# Enable with: git config core.hooksPath .githooks
+
+exec "$(dirname "$0")/_scan.sh" pre-push
